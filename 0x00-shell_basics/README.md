@@ -8,3 +8,5 @@ mkdir -p script allows you to create a directory inside another directory withou
 mv script will move a file to a directory
 rm script will execute the removal of a file in a directory
 rmdir script will delete a directory
+cd - script will change the working directory to the previous one
+ls al . .. /boot script will display contents of working directory, parent of the working directory and boot directory in long format including hiddien files
