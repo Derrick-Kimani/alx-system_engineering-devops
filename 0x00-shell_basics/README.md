@@ -7,3 +7,4 @@ ls -lna script will display contents of files and directories including hidden f
 mkdir -p script allows you to create a directory inside another directory without having to navigate through directories
 mv script will move a file to a directory
 rm script will execute the removal of a file in a directory
+rmdir script will delete a directory
