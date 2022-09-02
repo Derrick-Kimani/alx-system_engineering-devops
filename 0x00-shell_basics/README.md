@@ -6,3 +6,4 @@ ls -la script will display all contents of a directory (including hidden files) 
 ls -lna script will display contents of files and directories including hidden files in long format including the user and group IDs
 mkdir -p script allows you to create a directory inside another directory without having to navigate through directories
 mv script will move a file to a directory
+rm script will execute the removal of a file in a directory
